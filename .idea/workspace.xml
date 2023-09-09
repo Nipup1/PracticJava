@@ -8,11 +8,6 @@
       <change afterPath="$PROJECT_DIR$/../JavaPractis/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaPractis/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaPractis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practic_4_1/box8/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practic_4_1/box8/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practic_4_1/box8/Share.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practic_4_1/box8/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practic_4_1/box8/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
@@ -32,52 +27,9 @@
       <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex3/Circle.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex3/Point.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex3/Tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box/TestAuthor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_10/HowMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_10/HowMany.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_2/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_2/Ball.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_2/TestBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_2/TestBall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_3/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_3/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_3/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_3/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_4/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_4/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_4/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_4/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_4/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_4/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_4/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_5/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_5/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_5/DogHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_5/DogHouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_6/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_6/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_6/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_6/CircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_7/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_7/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_7/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_7/BookShelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_7/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_2/box_9/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_2/box_9/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/converter/Conventer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/converter/Conventer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/converter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/converter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/converter/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/converter/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/converter/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/converter/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/ex1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/ex2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/ex2/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/ex2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/ex2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/ex4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/ex5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/ex5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/report/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/report/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_3/report/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_3/report/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4.1/box1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4_1/box1/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4.1/box1/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4_1/box1/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4.1/box1/Share.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4_1/box1/Share.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4.1/box1/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4_1/box1/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4.1/box1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4_1/box1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4.1/box2/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4_1/box2/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4.1/box2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4_1/box2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4/box3/Basket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4/box3/Basket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4/box3/Categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4/box3/Categories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4/box3/Catolog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4/box3/Catolog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4/box3/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4/box3/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_4/box3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_4/box3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_5/box1/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_5/box1/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,20 +57,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/PracticJava/src/Practic_4.1/box8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/IdeaProjects/PracticJava/src/Practic_4.1/box8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Practic_3.ex2" />
@@ -145,10 +98,22 @@
       <workItem from="1694211604917" duration="3000" />
       <workItem from="1694275733468" duration="14881000" />
       <workItem from="1694293471721" duration="169000" />
+      <workItem from="1694293649113" duration="2603000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
