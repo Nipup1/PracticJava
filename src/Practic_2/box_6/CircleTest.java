@@ -1,4 +1,4 @@
-package box_6;
+package Practic_2.box_6;
 
 import java.util.Scanner;
 

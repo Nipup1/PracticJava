@@ -1,19 +1,21 @@
-package box1;
+package Practic_4_1.box1;
 
-public class Square extends Share{
+public class Rectangle extends Share{
     private double a;
+    private double b;
 
-    public Square(String type, int a) {
-        super("Квадрат");
+    public Rectangle(String type, int a, int b) {
+        super("Прямоугольник");
         this.a = a;
+        this.b = b;
     }
 
     public double getP(){
-        return 4*a;
+        return 2*(a+b);
     }
 
     public double getS(){
-        return Math.pow(a,2);
+        return a*b;
     }
 
     @Override

@@ -1,4 +1,4 @@
-package box;
+package Practic_2.box;
 
 public class Author {
     private String name;

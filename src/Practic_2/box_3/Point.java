@@ -1,4 +1,4 @@
-package box_3;
+package Practic_2.box_3;
 
 public class Point {
     private double x = 0.0;

@@ -1,4 +1,4 @@
-package box_4;
+package Practic_2.box_4;
 
 public interface Array{
     void setCompInArray(String gpu, String cpu, int ram, String motherBoard);

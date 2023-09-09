@@ -1,4 +1,4 @@
-package practic_3.converter;
+package Practic_3.converter;
 
 public class Conventer {
 

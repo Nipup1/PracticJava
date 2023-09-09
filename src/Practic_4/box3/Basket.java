@@ -1,4 +1,4 @@
-package box3;
+package Practic_4.box3;
 
 import java.util.ArrayList;
 

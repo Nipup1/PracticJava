@@ -1,4 +1,4 @@
-package practic_3.report;
+package Practic_3.report;
 
 public class Employee {
     private String fullname;

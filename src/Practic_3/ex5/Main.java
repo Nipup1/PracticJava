@@ -1,4 +1,4 @@
-package practic_3.ex5;
+package Practic_3.ex5;
 
 public class Main {
     public static void main(String[] args) {

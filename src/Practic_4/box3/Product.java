@@ -1,4 +1,4 @@
-package box3;
+package Practic_4.box3;
 
 public class Product{
     private Categories categor;

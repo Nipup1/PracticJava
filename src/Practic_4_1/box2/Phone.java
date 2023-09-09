@@ -1,4 +1,4 @@
-package box2;
+package Practic_4_1.box2;
 
 public class Phone {
     private String number;

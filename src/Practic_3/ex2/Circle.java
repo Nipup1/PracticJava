@@ -22,7 +22,7 @@ public class Circle {
 
     @Override
     public String toString() {
-        return "Circle { " +
+        return "Practic_4_1.box8.Circle { " +
                 point.toString() +
                 ", r = " + r +
                 " }";

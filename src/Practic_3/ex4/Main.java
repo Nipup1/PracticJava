@@ -1,4 +1,4 @@
-package practic_3.ex4;
+package Practic_3.ex4;
 
 import java.util.ArrayList;
 import java.util.Random;

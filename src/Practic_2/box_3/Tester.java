@@ -1,4 +1,4 @@
-package box_3;
+package Practic_2.box_3;
 
 import java.util.ArrayList;
 
@@ -7,6 +7,6 @@ public class Tester {
     int nums = arrayCircles.size();
 
     public static void main(String[] args) {
-        System.out.println("Test");
+        System.out.println("Practic_4_1.box8.Test");
     }
 }

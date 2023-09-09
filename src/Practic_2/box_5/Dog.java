@@ -1,4 +1,4 @@
-package box_5;
+package Practic_2.box_5;
 
 public class Dog {
     private String nickname;

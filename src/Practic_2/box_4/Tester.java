@@ -1,4 +1,4 @@
-package box_4;
+package Practic_2.box_4;
 
 public class Tester {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package box_6;
+package Practic_2.box_6;
 
 public class Circle {
     private double x;

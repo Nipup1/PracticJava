@@ -1,4 +1,4 @@
-package box_7;
+package Practic_2.box_7;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package practic_3.ex1;
+package Practic_3.ex1;
 
 import java.util.*;
 

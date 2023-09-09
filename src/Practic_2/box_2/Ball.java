@@ -1,4 +1,4 @@
-package box_2;
+package Practic_2.box_2;
 
 public class Ball{
     private double x = 0.0;

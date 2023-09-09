@@ -1,4 +1,4 @@
-package box_3;
+package Practic_2.box_3;
 
 public class Circle extends Point{
     private Point point = new Point();

@@ -1,4 +1,4 @@
-package practic_3.report;
+package Practic_3.report;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;

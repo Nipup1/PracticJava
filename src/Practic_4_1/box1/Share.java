@@ -1,4 +1,4 @@
-package box1;
+package Practic_4_1.box1;
 
 public class Share {
     private String type;

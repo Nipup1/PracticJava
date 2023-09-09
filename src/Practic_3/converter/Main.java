@@ -1,4 +1,4 @@
-package practic_3.converter;
+package Practic_3.converter;
 
 import java.util.Objects;
 import java.util.Scanner;

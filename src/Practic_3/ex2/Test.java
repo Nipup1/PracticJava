@@ -1,4 +1,4 @@
-package practic_3.ex2;
+package Practic_3.ex2;
 
 import java.util.ArrayList;
 import java.util.Collections;
