@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="466e5a89-e73f-4e08-8c41-c754e59befdf" name="Changes" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/GUI.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/Test.java" beforeDir="false" />
+>>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "c0f7a89b",
+    "last_opened_file_path": "D:/idea_Projects/PracticJava/src/Practic_12",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -51,6 +70,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
   }
 }</component>
   <component name="RecentsManager">
@@ -58,15 +78,41 @@
       <recent name="Practic_3.ex2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_Projects\PracticJava\src\Practic_12" />
       <recent name="D:\IdeaProjects\PracticJava\src\Practic_4.1\box8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="D:\idea_Projects\PracticJava\src\Practic_5" />
+      <recent name="D:\idea_Projects\PracticJava\src" />
+=======
       <recent name="D:\idea_Projects\PracticJava\src\Practic_6" />
+>>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
       <recent name="D:\IdeaProjects\PracticJava\src\Practic_5\box1" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Practic_4.box8" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="box4.Test" />
+      <module name="PracticJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="box4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,6 +127,14 @@
       <workItem from="1694275733468" duration="14881000" />
       <workItem from="1694293471721" duration="169000" />
       <workItem from="1694293649113" duration="2603000" />
+<<<<<<< HEAD
+      <workItem from="1695579013666" duration="4000" />
+      <workItem from="1695899714972" duration="4511000" />
+      <workItem from="1696003665592" duration="1209000" />
+      <workItem from="1696232677913" duration="941000" />
+      <workItem from="1696263426832" duration="981000" />
+      <workItem from="1696264450032" duration="1573000" />
+=======
       <workItem from="1694379103508" duration="29000" />
       <workItem from="1694379390880" duration="12000" />
       <workItem from="1694411516426" duration="227000" />
@@ -93,6 +147,7 @@
       <workItem from="1694772745037" duration="13000" />
       <workItem from="1695017303486" duration="234000" />
       <workItem from="1695017553101" duration="316000" />
+>>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
     </task>
     <servers />
   </component>
