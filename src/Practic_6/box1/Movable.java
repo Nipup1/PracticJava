@@ -1,0 +1,8 @@
+package Practic_6.box1;
+
+public interface Movable {
+    void moveUp();
+    void moveDown();
+    void moveLeft();
+    void moveRight();
+}
