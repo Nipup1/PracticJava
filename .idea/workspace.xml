@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="466e5a89-e73f-4e08-8c41-c754e59befdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaPractis/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractis/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPractis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/Pr2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex1/Author.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex1/TestAuthor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex2/Ball.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex2/TestBall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex3/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex3/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Pr2/src/Pr2/ex3/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_5/box1/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practic_5/box1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,36 +29,39 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2V8G4NvvIiIlmGep6TZthjMxUSb" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/IdeaProjects/PracticJava/src/Practic_4.1/box8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;389bcf8e&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/idea_Projects/PracticJava/src/Practic_12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Practic_3.ex2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea_Projects\PracticJava\src\Practic_12" />
       <recent name="D:\IdeaProjects\PracticJava\src\Practic_4.1\box8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea_Projects\PracticJava\src\Practic_5" />
+      <recent name="D:\idea_Projects\PracticJava\src" />
       <recent name="D:\IdeaProjects\PracticJava\src\Practic_5\box1" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -99,6 +81,12 @@
       <workItem from="1694275733468" duration="14881000" />
       <workItem from="1694293471721" duration="169000" />
       <workItem from="1694293649113" duration="2603000" />
+      <workItem from="1695579013666" duration="4000" />
+      <workItem from="1695899714972" duration="4511000" />
+      <workItem from="1696003665592" duration="1209000" />
+      <workItem from="1696232677913" duration="941000" />
+      <workItem from="1696263426832" duration="981000" />
+      <workItem from="1696264450032" duration="509000" />
     </task>
     <servers />
   </component>
