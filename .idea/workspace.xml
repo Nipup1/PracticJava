@@ -4,165 +4,110 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="466e5a89-e73f-4e08-8c41-c754e59befdf" name="Changes" comment="">
-<<<<<<< HEAD
+    <list default="true" id="055847c9-6da1-44b0-bcf9-b91299f6790e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Practic_19/number1/INNValidater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_19/number1/InvalidINNException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_19/number2/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_19/number2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_19/number2/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_20/number123/MyGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_20/number4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_20/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_20/number4/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_20/number5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_20/number5/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number1/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number1/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number1/ArrayQueueADTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number1/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number1/ArrayQueueModuleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number1/ArrayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number2/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number2/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/BinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practic_23/number3/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number1/ArrayToListConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number2/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number3/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number4/DirectoryListing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/number1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/number2/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/GUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practic_5/box1/Test.java" beforeDir="false" />
->>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
+      <change beforePath="$PROJECT_DIR$/PracticJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2V8G4NvvIiIlmGep6TZthjMxUSb" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2WWqTbeEAafhrM33OcSkiZKCnGN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "c0f7a89b",
-    "last_opened_file_path": "D:/idea_Projects/PracticJava/src/Practic_12",
+    "git-widget-placeholder": "fb76e9e9",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
-=======
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/idea_Projects/PracticJava&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
->>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Practic_3.ex2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea_Projects\PracticJava\src\Practic_12" />
-      <recent name="D:\IdeaProjects\PracticJava\src\Practic_4.1\box8" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-<<<<<<< HEAD
-      <recent name="D:\idea_Projects\PracticJava\src\Practic_5" />
-      <recent name="D:\idea_Projects\PracticJava\src" />
-=======
-      <recent name="D:\idea_Projects\PracticJava\src\Practic_6" />
->>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
-      <recent name="D:\IdeaProjects\PracticJava\src\Practic_5\box1" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="Practic_4.box8" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="box4.Test" />
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practic_23.number3.Main" />
       <module name="PracticJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="box4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PROGRAM_PARAMETERS" value="2 3 4" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="466e5a89-e73f-4e08-8c41-c754e59befdf" name="Changes" comment="" />
-      <created>1694210102782</created>
+      <changelist id="055847c9-6da1-44b0-bcf9-b91299f6790e" name="Changes" comment="" />
+      <created>1696858694275</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694210102782</updated>
-      <workItem from="1694210103816" duration="1154000" />
-      <workItem from="1694211604917" duration="3000" />
-      <workItem from="1694275733468" duration="14881000" />
-      <workItem from="1694293471721" duration="169000" />
-      <workItem from="1694293649113" duration="2603000" />
-<<<<<<< HEAD
-      <workItem from="1695579013666" duration="4000" />
-      <workItem from="1695899714972" duration="4511000" />
-      <workItem from="1696003665592" duration="1209000" />
-      <workItem from="1696232677913" duration="941000" />
-      <workItem from="1696263426832" duration="981000" />
-      <workItem from="1696264450032" duration="1573000" />
-=======
-      <workItem from="1694379103508" duration="29000" />
-      <workItem from="1694379390880" duration="12000" />
-      <workItem from="1694411516426" duration="227000" />
-      <workItem from="1694414381446" duration="73000" />
-      <workItem from="1694414467028" duration="226000" />
-      <workItem from="1694415841722" duration="2056000" />
-      <workItem from="1694425588659" duration="694000" />
-      <workItem from="1694611257914" duration="21000" />
-      <workItem from="1694611330459" duration="3243000" />
-      <workItem from="1694772745037" duration="13000" />
-      <workItem from="1695017303486" duration="234000" />
-      <workItem from="1695017553101" duration="316000" />
->>>>>>> 71b7b8def9c1176f4aca0ee84cf9585a838edc34
+      <updated>1696858694275</updated>
+      <workItem from="1696858696978" duration="2828000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
